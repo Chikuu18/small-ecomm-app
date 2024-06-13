@@ -1,0 +1,10 @@
+.errorField {
+    color: red;
+}
+
+.emailSuccess, .passwordSuccess, .stateSuccess {
+    display: none;
+}
+form {
+    margin-top: 6% !important;
+}

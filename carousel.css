@@ -1,0 +1,9 @@
+
+.carousel-item img {
+    height: 40rem !important;
+    width: 70% !important;
+    margin-left: 15%;
+}
+.carousel-inner h1 {
+    color:  #000;
+}
